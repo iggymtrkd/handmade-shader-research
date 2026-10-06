@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b0d10" />
+  <meta name="description" content="Handmade / sketchy / hand-painted shader & material research catalog — 512 entries with screenshots, scores, and links." />
+  <title>Handmade Shader Research — Catalog</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <a class="skip" href="#catalog">Skip to catalog</a>
+  <header class="top">
+    <div class="brand">
+      <span class="mark" aria-hidden="true">◆</span>
+      <div>
+        <h1>Handmade Shader Research</h1>
+        <p class="sub">Igor’s catalog — stylization · painterly · mobile</p>
+      </div>
+    </div>
+    <div class="stats" id="stats" aria-live="polite">Loading…</div>
+  </header>
+
+  <section class="controls" aria-label="Filters">
+    <label class="search">
+      <span class="sr-only">Search</span>
+      <input id="q" type="search" placeholder="Search title, category, price…" autocomplete="off" />
+    </label>
+    <div class="filters">
+      <div class="filter-block">
+        <span class="flabel">Category</span>
+        <div class="chips" id="cat-chips" role="group" aria-label="Category filter"></div>
+      </div>
+      <div class="filter-block">
+        <span class="flabel">Price</span>
+        <div class="chips" id="price-chips" role="group" aria-label="Price filter"></div>
+      </div>
+    </div>
+  </section>
+
+  <main id="catalog" class="catalog" aria-busy="true"></main>
+  <div class="empty" id="empty" hidden>
+    <p>No entries match.</p>
+    <button type="button" id="reset">Clear filters</button>
+  </div>
+
+  <footer class="foot">
+    <p>Static catalog from the research notes · <a href="https://github.com/iggymtrkd/handmade-shader-research">github.com/iggymtrkd/handmade-shader-research</a></p>
+  </footer>
+  <script src="./app.js"></script>
+</body>
+</html>
