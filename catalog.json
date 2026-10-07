@@ -1,6 +1,6 @@
 {
-  "count": 512,
-  "generated": "2026-10-06",
+  "count": 519,
+  "generated": "2026-10-07",
   "entries": [
     {
       "id": "sketchy-toon-shader-urp",
@@ -294,11 +294,11 @@
     {
       "id": "watercolor-art-painting-stylization-effect-nulltale",
       "title": "Watercolor – Art Painting Stylization Effect (NullTale)",
-      "price": "Paid — Asset Store often ~$7.49–14.99",
+      "price": "Paid — Asset Store $14.99 (sales ~$7.50)",
       "priceBucket": "Paid",
       "stylization": 5,
       "painterly": 9,
-      "mobile": 8,
+      "mobile": 6,
       "category": "Unity URP / shaders",
       "section": "1) Unity URP — sketchy / handmade shaders & materials",
       "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/watercolor-art-painting-stylization-effect-339380",
@@ -311,30 +311,34 @@
     {
       "id": "outline-fx-nulltale",
       "title": "Outline Fx (NullTale)",
-      "price": "Paid (verify itch/Asset Store USD)",
+      "price": "Paid — Asset Store $9.99",
       "priceBucket": "Paid",
-      "stylization": 6,
+      "stylization": 7,
       "painterly": 3,
-      "mobile": 6,
+      "mobile": 7,
       "category": "Unity URP / shaders",
       "section": "1) Unity URP — sketchy / handmade shaders & materials",
-      "url": "https://nulltale.itch.io/screenoutlinefx",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/screen-outline-2d-3d-gradient-image-stylization-270019",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/screen-outline-nulltale.jpg"
+      ],
       "where": "itch.io (also Asset Store ecosystem via NullTale)",
       "what": "URP screen outline Render Feature — luminance/chroma/alpha/depth edges; gradient fill; 2D+3D."
     },
     {
       "id": "volfx-nulltale",
       "title": "VolFx (NullTale)",
-      "price": "Paid (verify)",
+      "price": "Paid — Asset Store $49.99 (sales ~$25)",
       "priceBucket": "Paid",
       "stylization": 5,
       "painterly": 7,
       "mobile": 6,
       "category": "Unity URP / shaders",
       "section": "1) Unity URP — sketchy / handmade shaders & materials",
-      "url": "https://nulltale.itch.io/volfx",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/volfx-vfx-toolkit-post-processing-shaders-timeline-tools-300643",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/volfx-nulltale.jpg"
+      ],
       "where": "itch.io",
       "what": "Selective post toolbox; hosts Watercolor, Outline, Flow, Pixelation, etc. with layer masks."
     },
@@ -2268,121 +2272,135 @@
     {
       "id": "vhs-fx",
       "title": "Vhs Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $9.99",
       "priceBucket": "Paid",
       "stylization": 5,
       "painterly": 4,
       "mobile": 6,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/vhs",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/vhs-270015",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/vhs-fx-nulltale.jpg"
+      ],
       "where": "itch.io (NullTale)",
       "what": "VHS tape distortion post for URP via VolFx family."
     },
     {
       "id": "old-movie-fx",
       "title": "Old Movie Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $9.99",
       "priceBucket": "Paid",
       "stylization": 5,
       "painterly": 5,
       "mobile": 6,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/oldmovie",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/old-movie-old-film-screen-effect-270021",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/old-movie-fx-nulltale.jpg"
+      ],
       "where": "itch.io (NullTale)",
       "what": "Old-film grain/scratches stylization for URP."
     },
     {
       "id": "jpeg-fx",
       "title": "Jpeg Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $14.99",
       "priceBucket": "Paid",
       "stylization": 4,
       "painterly": 2,
       "mobile": 6,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/jpeg",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/jpeg-fx-compression-artifacts-ps1-retro-aesthetic-322051",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/jpeg-fx-nulltale.jpg"
+      ],
       "where": "itch.io (NullTale)",
       "what": "JPEG compression artifact stylization post."
     },
     {
       "id": "flow-fx",
       "title": "Flow Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $9.99",
       "priceBucket": "Paid",
       "stylization": 4,
       "painterly": 7,
       "mobile": 5,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/flow",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/flow-fx-magic-motion-blur-effect-270022",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/flow-fx-nulltale.jpg"
+      ],
       "where": "itch.io (NullTale)",
       "what": "Flow/liquid stylization post (pairs with watercolor)."
     },
     {
       "id": "pixelation-fx",
       "title": "Pixelation Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $9.99",
       "priceBucket": "Paid",
       "stylization": 3,
       "painterly": 1,
       "mobile": 8,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/pixelation",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/pixelation-fx-271730",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/pixelation-fx-nulltale.jpg"
+      ],
       "where": "itch.io (NullTale)",
       "what": "Pixelate post for stylized/retro look."
     },
     {
       "id": "ascii-fx",
       "title": "Ascii Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $9.99",
       "priceBucket": "Paid",
       "stylization": 6,
       "painterly": 1,
       "mobile": 7,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/ascii",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/ascii-280821",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/ascii-fx-nulltale.jpg"
+      ],
       "where": "itch.io (NullTale)",
       "what": "ASCII art post stylization."
     },
     {
       "id": "dither-fx",
       "title": "Dither Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $14.99 (listed ~$16.49)",
       "priceBucket": "Paid",
       "stylization": 5,
       "painterly": 2,
       "mobile": 8,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/dither",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dither-retro-pixelated-pattern-effect-280822",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/dither-fx-nulltale.jpg"
+      ],
       "where": "itch.io (NullTale)",
       "what": "Dither stylization post."
     },
     {
       "id": "color-map-fx",
       "title": "Color Map Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $9.99",
       "priceBucket": "Paid",
       "stylization": 3,
       "painterly": 4,
       "mobile": 8,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/colormap",
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/color-map-palette-colorization-effect-270020",
       "screenshots": [
-        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/watercolor-textures-328667.jpg"
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/color-map-fx-nulltale.jpg"
       ],
       "where": "itch.io (NullTale)",
       "what": "LUT/color map stylization."
@@ -2390,15 +2408,17 @@
     {
       "id": "glitch-fx",
       "title": "Glitch Fx",
-      "price": "Paid (verify per effect / bundle)",
+      "price": "Paid — Asset Store $14.99",
       "priceBucket": "Paid",
       "stylization": 4,
       "painterly": 1,
       "mobile": 7,
       "category": "Unity URP / shaders",
       "section": "Catalog expansion (Wave C) — denser real catalog",
-      "url": "https://nulltale.itch.io/glitch",
-      "screenshots": [],
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/glitch-290430",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/glitch-fx-nulltale.jpg"
+      ],
       "where": "itch.io (NullTale)",
       "what": "Glitch post — optional cyber Lain mood."
     },
@@ -7055,7 +7075,7 @@
     {
       "id": "nulltale-watercolor-as-screenshot-card",
       "title": "NullTale Watercolor AS (screenshot card)",
-      "price": "~$7–15",
+      "price": "Paid — $14.99 (sales ~$7.50)",
       "priceBucket": "Paid",
       "stylization": 5,
       "painterly": 9,
@@ -8527,6 +8547,125 @@
       ],
       "where": "Steam",
       "what": "Cel/graphic action staging with thick outlines."
+    },
+    {
+      "id": "screen-outline-2d-3d-gradient-image-stylization-nulltale-as",
+      "title": "Screen Outline 2D/3D — Gradient Image Stylization (NullTale AS)",
+      "price": "Paid — Asset Store $9.99",
+      "priceBucket": "Paid",
+      "stylization": 7,
+      "painterly": 3,
+      "mobile": 7,
+      "category": "Unity URP / post / outline",
+      "section": "Wave I — NullTale Asset Store whitelist (publisher 45788)",
+      "url": "https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/screen-outline-2d-3d-gradient-image-stylization-270019",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/screen-outline-nulltale.jpg"
+      ],
+      "where": "Unity Asset Store (NullTale / publisher 45788)",
+      "what": "URP fullscreen/screen outline with gradient fill and image stylization — Asset Store twin of Outline Fx; luminance/chroma/depth edges for comic ink contours."
+    },
+    {
+      "id": "outline-2d-3d-nulltale",
+      "title": "Outline 2D/3D (NullTale)",
+      "price": "Free",
+      "priceBucket": "Free",
+      "stylization": 6,
+      "painterly": 2,
+      "mobile": 8,
+      "category": "Unity URP / outline",
+      "section": "Wave I — NullTale Asset Store whitelist (publisher 45788)",
+      "url": "https://assetstore.unity.com/packages/tools/particles-effects/outline-2d-3d-290431",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/outline-2d-3d-nulltale.jpg"
+      ],
+      "where": "Unity Asset Store (NullTale)",
+      "what": "Object/sprite outline tool (Particles/Effects) for 2D+3D — distinct from Screen Outline post; useful for character silhouettes and prop ink."
+    },
+    {
+      "id": "lutlight2d-stylized-pixelart-lighting-nulltale",
+      "title": "LutLight2D — Stylized PixelArt Lighting (NullTale)",
+      "price": "Free",
+      "priceBucket": "Free",
+      "stylization": 7,
+      "painterly": 4,
+      "mobile": 8,
+      "category": "Unity 2D / lighting / stylized",
+      "section": "Wave I — NullTale Asset Store whitelist (publisher 45788)",
+      "url": "https://assetstore.unity.com/packages/tools/particles-effects/lutlight2d-stylized-pixelart-lighting-267033",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/lutlight2d-nulltale.jpg"
+      ],
+      "where": "Unity Asset Store (NullTale)",
+      "what": "2D stylized pixel-art lighting via LUT ramps — banded/cel-like light response for hand-drawn / comic-panel 2D stages."
+    },
+    {
+      "id": "gilight-2d-raytracing-and-lighting-nulltale",
+      "title": "GiLight — 2D Raytracing and Lighting (NullTale)",
+      "price": "Free",
+      "priceBucket": "Free",
+      "stylization": 5,
+      "painterly": 5,
+      "mobile": 5,
+      "category": "Unity 2D / lighting",
+      "section": "Wave I — NullTale Asset Store whitelist (publisher 45788)",
+      "url": "https://assetstore.unity.com/packages/tools/particles-effects/gilight-2d-raytracing-and-lighting-system-268033",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/gilight-nulltale.jpg"
+      ],
+      "where": "Unity Asset Store (NullTale)",
+      "what": "2D raytraced lighting system for stylized bounce/occlusion — atmospheric fills for comic panels and painterly 2D stages."
+    },
+    {
+      "id": "screenfx-vfx-timeline-tracks-and-tools-nulltale",
+      "title": "ScreenFx — VFX Timeline Tracks and Tools (NullTale)",
+      "price": "Paid — Asset Store $9.99",
+      "priceBucket": "Paid",
+      "stylization": 4,
+      "painterly": 5,
+      "mobile": 7,
+      "category": "Unity tools / VFX timeline",
+      "section": "Wave I — NullTale Asset Store whitelist (publisher 45788)",
+      "url": "https://assetstore.unity.com/packages/tools/camera/screenfx-vfx-timeline-tracks-and-tools-270814",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/screenfx-nulltale.jpg"
+      ],
+      "where": "Unity Asset Store (NullTale)",
+      "what": "Timeline tracks/tools to drive VolFx/Screen FX posts — author watercolor/outline stacks selectively in cutscenes without permanent fullscreen cost."
+    },
+    {
+      "id": "white-scape-1bit-characters-sprites-nulltale",
+      "title": "White Scape — 1bit characters & sprites (NullTale)",
+      "price": "Free",
+      "priceBucket": "Free",
+      "stylization": 8,
+      "painterly": 1,
+      "mobile": 9,
+      "category": "2D content / stylized reference",
+      "section": "Wave I — NullTale Asset Store whitelist (publisher 45788)",
+      "url": "https://assetstore.unity.com/packages/2d/characters/white-scape-1bit-asset-pack-characters-and-sprites-268429",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/white-scape-nulltale.jpg"
+      ],
+      "where": "Unity Asset Store (NullTale)",
+      "what": "1-bit stylized character/sprite pack — high-contrast ink silhouettes useful as outline/comic reference art, not a shader."
+    },
+    {
+      "id": "dungeon-tale-fantasy-rpg-sprites-fx-tileset-nulltale",
+      "title": "Dungeon Tale — Fantasy RPG Sprites FX Tileset (NullTale)",
+      "price": "Free",
+      "priceBucket": "Free",
+      "stylization": 7,
+      "painterly": 4,
+      "mobile": 9,
+      "category": "2D content / stylized reference",
+      "section": "Wave I — NullTale Asset Store whitelist (publisher 45788)",
+      "url": "https://assetstore.unity.com/packages/2d/environments/dungeon-tale-fantasy-rpg-sprites-fx-tileset-296458",
+      "screenshots": [
+        "https://raw.githubusercontent.com/iggymtrkd/handmade-shader-research/main/screenshots/dungeon-tale-nulltale.jpg"
+      ],
+      "where": "Unity Asset Store (NullTale)",
+      "what": "Hand-crafted fantasy RPG sprites/FX/tileset with strong graphic silhouette — reference for comic/hand-drawn prop staging (textures ≠ shader)."
     }
   ]
 }
